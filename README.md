@@ -10,4 +10,10 @@ just have the icon on my desktop and use it whenever I want.
 
 ### 12/26/2022
 I added a loop so that I can get another suggestion if I don't what it gives me and gives an option to request a manga from my manga Plan to Read list. 
-For now if manga is selected it will just give a message saying that I am working on it. I plan to add this functionality in the future.
+For now if manga is selected it will just give a message saying that I am working on it.
+
+### Possible future functionalities 
+
+-Returning random manga from list
+-Return random anime from current season
+-Return random anime from top xx page
