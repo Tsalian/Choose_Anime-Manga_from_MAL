@@ -14,6 +14,6 @@ For now if manga is selected it will just give a message saying that I am workin
 
 ### Possible future functionalities 
 
--Returning random manga from list
--Return random anime from current season
--Return random anime from top xx page
+- [ ] Returning random manga from list
+- [ ] Return random anime from current season
+- [ ] Return random anime from top xx page
